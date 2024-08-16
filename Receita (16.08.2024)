@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <title>Receita de Carbonara</title>
+    </head>
+    <body>
+        <h2>Receita de minha comida favorita:</h2>
+        <p>𝙐𝙨𝙚𝙧: 𝘿𝙖𝙣𝙞𝙚𝙡 𝙍𝙖𝙢𝙤𝙖 𝙙𝙤𝙨 𝙎𝙖𝙣𝙩𝙤𝙨 𝙍𝙤𝙘𝙝𝙖</p>
+        <img src="https://i.ytimg.com/vi/rY4mz5TLtz4/maxresdefault.jpg" alt="Foto da Carbonara" width="250">
+        <h1>Carbonara</h1>
+        <h2>★4,9</h2>
+        <p>Como forma de exercitar a matéria aprendida em sala, o professor passou um pequeno trabalho para a turma escrever suas receitas de comidas favoritas individuais em HTML. Nesse sentido, tendo e vista que meu prato favorito é a Carbonara, segue as devidas instruções para cozinha-la com qualidade.</p>
+        <h2>Ingredientes necessários:</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Ingrediente</th>
+                    <th>Quantidade</th>
+                    <th>Preço</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Macarrão (Formato à vontade)</td>
+                    <td>500g</td>
+                    <td>Em média R$20,00</td>
+                </tr>
+                <tr>
+                    <td>Ovos</td>
+                    <td>5 ovos</td>
+                    <td>Uma dúzia = R$12,00</td>
+                </tr>
+                <tr>
+                    <td>Bacon em tiras</td>
+                    <td>Pacote inteiro</td>
+                    <td>R$19,00</td>
+                </tr>
+                <tr>
+                    <td>Pimenta do Reino</td>
+                    <td>A gosto</td>
+                    <td>R$25,00</td>
+                </tr>
+                <tr>
+                    <td>Queijo Parmesão em barra</td>
+                    <td>200g</td>
+                    <td>R$28,00</td>
+                </tr>
+                <tr>
+                    <td>Sal</td>
+                    <td>A gosto</td>
+                    <td>1kg = R$3,00</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Modo de preparo:</h2>
+        <ol>
+            <li>Em um recipiente, despeje 2 gemas e 3 ovos inteiros;</li>
+            <li>Rale o queijo e misture junto dos ovos até obter uma textura cremosa. Em seguida, bote a pimenta do reino (a gosto);</li>
+            <li>Em uma panela, frite o bacon (a gosto) até ficar crocante. Depois de frito, jogue o óleo da fritura no recipiente com as misturas citadas acima e separe o bacon;</li>
+            <li>Em uma panela que o macarrão caiba, ferva uma quantidade de água equivalente a 3/4 do volume dela. Após fervente, jogue o macarrão na água e aguarde até o mesmo ficar ao dente;</li>
+            <li>Em seguida, jogue 1 concha da água que o macarrão cozinhou na mistura. Quando pronto, com um talher, retire o macarrão diretamente da panela e misture com o restante dos ingredientes;</li>
+            <li>Sirva em um prato fundo e com uma colher bote o bacon por cima;</li>
+            <li>Seja feliz.</li>
+        </ol>
+        <h3>Em caso de dúvidas, segue vídeo de tutorial no YouTube:</h3>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KtXcCHw7bj4?si=DF0Kf3UBlDTpxbsi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <h2>Opiniões pessoais</h2>
+        <p>
+            Por mais que gorduroso, o prato italiano vale muito a pena, visto que além de muito saboroso, seu preparo é rápido (demora em torno de 30 min).
+        </p>
+        <h3>Curiosidades sobre o prato</h3>
+        <p>
+            A carbonara é uma pasta tradicional italiana, originária da região do Lácio, em Roma. Sua história remonta à Segunda Guerra Mundial, quando soldados americanos trouxeram bacon para a Itália, e os cozinheiros italianos improvisaram uma receita com ovos e queijo. A combinação de ovos, queijo parmesão ou pecorino, pancetta ou guanciale, e pimenta preta se tornou popular. O prato evoluiu ao longo dos anos, mas manteve sua simplicidade e sabor característicos. Hoje, a carbonara é um dos pratos de massa mais amados e reconhecidos globalmente.
+        </p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046575.1314499364!2d10.099348283104138!3d41.7815276648884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1324eee6353a6535%3A0x6f4a9064f1a38529!2zTMOhY2lvLCBJdMOhbGlh!5e0!3m2!1spt-BR!2sbr!4v1723808631003!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <h3>Dúvidas sobre a receita</h3>
+        <p>Em caso de dúvidas ao longo do processo, não hesite em contactar-nos:</p>
+        <label for="email">Email</label>
+        <br>
+        <input name="email" type="email" placeholder="Email" required>
+        <br>
+        <br>
+        <label for="nome">Nome</label>
+        <br>
+        <input name="nome" type="text" placeholder="Nome">
+        <br>
+        <br>
+        <label for="comentario">Comentário</label>
+        <br>
+        <textarea name="comentario" rows="5" cols="50" placeholder="Digite sua dúvida aqui"></textarea>
+        <br>
+        <br>
+        <input type="submit" value="Enviar">
+    </body>
+</html>
